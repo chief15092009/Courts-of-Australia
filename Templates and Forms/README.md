@@ -1,1 +1,19 @@
-
+**Judgement Template** 
+- [Link](https://docs.google.com/document/d/1aMhJdZ1FvkocGiRGG89zcYkIkmPdnMg7fRgpoQL9sYM/edit?usp=sharing)
+- Delete either "Federal" or "High" dependant on court type.
+- Change Appealant name to Roblox Username of Appealant (Rex for King)
+- Change Defendant name to Roblox Username of Defendant (Rex for King, Commonwealth of Australia for Australia)
+- Change in the Information Italic Section as well
+- Add case no dependant on filing system.
+  - Federal Court of Australia [2024] FCA[T/A] - ###
+    - [2024] signifies year.
+    - FCA signifies Federal Court of Australia
+    - T/A represents Trial Division / Appeal Division respectively.
+    - "###" Represents the Case Number (As provided in README.md file)
+- Add the date of hearing, format is # & # Month Year (e.g. 4 & 6 May 2024)
+- Do the same for the date of judgement.
+- **DO NOT CHANGE FORMATTING, IT IS DONE THAT WAY TO BE SIMILAR TO IRL**
+- Change information respectively in footer.
+- Add representation for both parties.
+- Reasons for judgement begin from "Yap session begins."
+- When done, add signature and SEAL it, the seal will be provided to you **if you are a judge.**
