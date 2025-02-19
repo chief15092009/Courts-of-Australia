@@ -10,12 +10,12 @@
 **NEXT CASE NUMBERS**
 | TRIAL DIVISION |
 | :---: |
-| 2024/FCAT-001 |
+| 2025/FCAT-001 |
 
 **CASE MEDIUM CITATION**
 | TRIAL DIVISION |
 | :---: |
-| Applicant v. Defendant [2024/FCAT-###] |
+| Applicant v. Defendant [2025/FCAT-###] |
 ----
 
 This registry is maintained by the Judiciary and Clerk of the Federal Court of Australia.
