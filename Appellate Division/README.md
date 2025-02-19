@@ -10,12 +10,12 @@
 **NEXT CASE NUMBERS**
 | APPEALATE DIVISION |
 | :---: |
-| 2024/FCAA-001 |
+| 2025/FCAA-001 |
 
 **CASE MEDIUM CITATION**
 | APPEALATE DIVISION |
 | :---: |
-| Applicant v. Defendant [2024/FCAA-###] |
+| Applicant v. Defendant [2025/FCAA-###] |
 ----
 
 This registry is maintained by the Judiciary and Clerk of the Federal Court of Australia.
