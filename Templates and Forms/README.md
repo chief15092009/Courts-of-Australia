@@ -1,19 +1,16 @@
-**Judgement Template** 
-- [Link](https://docs.google.com/document/d/1aMhJdZ1FvkocGiRGG89zcYkIkmPdnMg7fRgpoQL9sYM/edit?usp=sharing)
-- Delete either "Federal" or "High" dependant on court type.
-- Change Appealant name to Roblox Username of Appealant (Rex for King)
-- Change Defendant name to Roblox Username of Defendant (Rex for King, Commonwealth of Australia for Australia)
-- Change in the Information Italic Section as well
-- Add case no dependant on filing system.
-  - Federal Court of Australia [2024] FCA[T/A] - ###
-    - [2024] signifies year.
-    - FCA signifies Federal Court of Australia
-    - T/A represents Trial Division / Appeal Division respectively.
-    - "###" Represents the Case Number (As provided in README.md file)
-- Add the date of hearing, format is # & # Month Year (e.g. 4 & 6 May 2024)
-- Do the same for the date of judgement.
-- **DO NOT CHANGE FORMATTING, IT IS DONE THAT WAY TO BE SIMILAR TO IRL**
-- Change information respectively in footer.
-- Add representation for both parties.
-- Reasons for judgement begin from "Yap session begins."
-- When done, add signature and SEAL it, the seal will be provided to you **if you are a judge.**
+## COURT DOCUMENTATION (TEMPLATES)
+
+[1] Notice of Claim; Civil Jurisdiction. [Link.](https://docs.google.com/document/d/1PPFrUIp_s7zwCWekN99DwAIYbpE4tvEIgKGJshFDPd4/edit?usp=sharing)
+
+[2] Notice of Claim; Reply: Civil Jurisdiction. [Link.](https://docs.google.com/document/d/1eIGdIaCQvUa5WvkUXDRBuxtnbbRybQgLYfqFlFDV1r0/edit?usp=drive_link)
+
+[3] Motion Template; Miscellaneous. [Link.](https://docs.google.com/document/d/1yEzrzx-COEgtBTt3guRaKbYS7PLhzrRgdEDVlsNZAQQ/edit?usp=drive_link)
+
+---
+#### WARNING
+
+**Using these documents below, without proper authorisation, constitute perjury and disobeying a court order.**
+
+[4] Arrest Warrant Template; Judicial Use ONLY. [Link.](https://docs.google.com/document/d/17oF5WPhYXbO6p5ZCi1IJw8FmTojmTnu5FsQ5ssqIEkw/edit?usp=drive_link)
+
+[5] Search Warrant Template; Judicial Use ONLY. [Link.](https://docs.google.com/document/d/1JEVfUvoQUB2RJjdl3Lrn3D65WdLmnRNBlXm1AEFkiCY/edit?usp=drive_link)
