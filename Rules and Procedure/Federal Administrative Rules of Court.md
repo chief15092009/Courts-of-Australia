@@ -1,4 +1,4 @@
-## Local Administrative Rules of Court
+## Federal Administrative Rules of Court
 
 ### Court Policy 2025-01
 
@@ -8,8 +8,8 @@ In an extraordinary circumstance, the court may allow the selection as a counsel
 
 In the Supreme Court of New South Wales, a medium citation shall be assigned to each case as follows
 ```
-Party v. Party, SCNSW [2025] #
-                             ^ Number counting up from 1
+Party v. Party, FCAT/A [2025] #
+                              ^ Number counting up from 1
 ```
 
 ### Court Policy 2025-03 
@@ -53,10 +53,6 @@ Except when an exception is allowed with good reason or by other means or leave,
 
 Warrants, whether they be a search or an arrest warrant shall last a period of sixty (60) days from the day that they are issued.
 
-### Court Policy 2025-08
-
-Any and all cases, against an official who holds a position above Department Director shall be referred to the Supreme Court's Trial Division.
-
 ---
 
-**REVISED DECEMER 20, 2025**
+**REVISED FEBRUARY 20, 2025**
